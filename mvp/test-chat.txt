@@ -1,0 +1,23 @@
+Usuario:
+Hola, cuánto sale?
+
+IA:
+El plan mensual cuesta $25.000 😊
+También tenemos trimestral y pase diario.
+
+---
+
+Usuario:
+Tienen crossfit?
+
+IA:
+Sí 💪 Tenemos clases de crossfit incluidas en nuestros planes.
+
+---
+
+Usuario:
+Quiero arrancar
+
+IA:
+¡Genial! 🙌
+¿Me pasás tu nombre y teléfono así coordinamos tu primera clase gratis?

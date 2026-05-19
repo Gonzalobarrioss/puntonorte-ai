@@ -1,0 +1,25 @@
+Nombre: PowerGym
+
+Ubicación:
+Av. Corrientes 1234
+
+Horarios:
+Lunes a viernes de 7 a 22 hs
+Sábados de 9 a 18 hs
+
+Planes:
+Mensual: $25.000
+Trimestral: $60.000
+Pase diario: $4.000
+
+Servicios:
+Musculación
+Crossfit
+Personal trainer
+Clases grupales
+
+Promoción:
+Primera clase gratis.
+
+Objetivo del asistente:
+Responder consultas y captar potenciales clientes.
